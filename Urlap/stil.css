@@ -1,0 +1,17 @@
+#b {
+    color:white;
+}
+body { 
+    background-color:rgb(192, 192, 192);
+}
+#gomb {
+    background-color:orange;
+    color:white;
+    font-weight:bold;
+}
+.csillag {
+    color:red;
+}
+#a {
+    font-size: 25px;
+}
